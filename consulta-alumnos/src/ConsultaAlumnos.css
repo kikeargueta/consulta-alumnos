@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Fuente general del cuerpo */
+  }
+  
+  .card {
+    position: relative;
+  }
+  
+  h2 {
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fuente divertida para el título */
+    font-size: 3rem; /* Tamaño de fuente del título */
+  }
+  
+  .form-group input {
+    font-size: 1.25rem; /* Tamaño de fuente del campo de entrada */
+  }
+  
+  .card p {
+    font-size: 1.25rem; /* Tamaño de fuente de los textos (nombre, correo, sección) */
+  }
+  
+  .btn {
+    font-size: 1.25rem; /* Tamaño de fuente del botón */
+  }
+  
